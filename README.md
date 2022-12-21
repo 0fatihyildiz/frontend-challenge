@@ -1,6 +1,6 @@
 # Frontend-challenge
 
-![Preview](https://i.hizliresim.com/9ewkcqa.png)
+![Preview](https://i.hizliresim.com/iuxbqys.gif)
 
 ## Özellikler
 
